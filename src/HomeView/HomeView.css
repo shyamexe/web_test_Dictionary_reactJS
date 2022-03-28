@@ -1,0 +1,25 @@
+    
+.home{
+    text-align: end;
+    margin-right: 180px;
+    margin-top: 60px;
+}
+/* .frame{
+
+    display: flex;
+    position: absolute;
+    right: 30px;
+} */
+
+.home1{
+    padding: 50px;
+    background-position: 31px 4px;
+    background-image: url('../assets/frame.png');
+    background-repeat: no-repeat;
+    background-size: auto 770px;
+    right: 100px;
+    top:0px;
+    
+    border: 0px;
+    
+}
