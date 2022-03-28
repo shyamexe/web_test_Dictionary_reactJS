@@ -12,11 +12,11 @@
 } */
 
 .home1{
-    padding: 50px;
-    background-position: 31px 4px;
-    background-image: url('../assets/frame.png');
+    padding: 100px;
+    background-position: 72px 0px;
+    background-image: url('https://user-images.githubusercontent.com/93277108/160416660-2c621b88-39b2-4a71-a52d-ac4fabb1fb64.png');
     background-repeat: no-repeat;
-    background-size: auto 770px;
+    background-size: auto 850px;
     right: 100px;
     top:0px;
     
