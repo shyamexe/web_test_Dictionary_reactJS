@@ -14,7 +14,7 @@ function Social() {
         <div>
             {width > 1300 && (
                 <div className='slink'>
-                <h1 className='text'>Dictionary Flutter Application Using Bloc</h1>
+                <h1 className='text'>Dictionary Flutter App Using Bloc</h1>
                 <a href="https://github.com/shyamexe/Dictionary_app_flutter_using_bloc"
                     className="social-link">
                     <FontAwesomeIcon icon={faGithub} size="2x" />
