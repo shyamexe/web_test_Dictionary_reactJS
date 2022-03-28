@@ -12,7 +12,7 @@ function Social() {
     const {width}=useWindowSize();
     return (
         <div>
-            {width > 1100 && (
+            {width > 1200 && (
                 <div className='slink'>
                 <h1 className='text'>Dictionary Flutter App Using Bloc</h1>
                 <a href="https://github.com/shyamexe/Dictionary_app_flutter_using_bloc"
@@ -21,14 +21,14 @@ function Social() {
                 </a>
             </div>
             )}
-            {width < 1100 && (
-                <div className='logo'>
+           { 1200 > width && 800< width?<div className='logo'>
+                <h2 className='text2'>Dictionary Flutter App Using Bloc</h2>
                 <a href="https://github.com/shyamexe/Dictionary_app_flutter_using_bloc"
                     className="social-link">
                     <FontAwesomeIcon icon={faGithub} size="2x" />
                 </a>
-            </div>
-            )}
+            </div>:<div/>}
+            
         </div>
     )
 }
