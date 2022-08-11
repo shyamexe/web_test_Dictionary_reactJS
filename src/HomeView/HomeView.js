@@ -5,7 +5,7 @@ function HomeView() {
   return (
 
     <div className='home'>
-      <iframe className='home1' src="https://ekj-webviewtest.web.app/#/62cfe8091ad4fa37f05f1143" height={652} width={370}></iframe>
+      <iframe className='home1' src="https://shyamexe.github.io/web_test_Dictionary/#/" height={652} width={370}></iframe>
     </div>
 
   )
